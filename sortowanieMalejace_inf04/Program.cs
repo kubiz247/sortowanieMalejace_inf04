@@ -8,6 +8,13 @@ namespace sortowanieMalejace_inf04
 {
     internal class Program
     {
+        /*
+         klasa: Program
+         opis: aplikacja wypelniajaca tablice losowymi liczbami calkowitymi z zakresu 0-100
+         pola: tab - tablica liczb calkowitych
+               rnd - generator liczb losowych
+         autor: Jakub Samonek
+         */
         static void Main(string[] args)
         {
             int n = 50;
